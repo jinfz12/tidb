@@ -30,7 +30,7 @@
         * [参数配置调整](/tidb/guide/serverless/configure)
         * [告警通知](/tidb/guide/serverless/monitor)
         * [证书管理](/tidb/guide/serverless/ssl)
-        * [数据库审计](/tidb/guide/serverlessaudit)
+        * [数据库审计](/tidb/guide/serverless/audit)
         * [安全组](/tidb/guide/serverless/secgroup)
         * [升级版本](/tidb/guide/serverless/upgrade.md)
 * [数据迁移](/tidb/migration)  
