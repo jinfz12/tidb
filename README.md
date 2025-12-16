@@ -34,6 +34,7 @@
         * [数据库审计](/tidb/guide/serverless/audit)
         * [安全组](/tidb/guide/serverless/secgroup)
         * [升级版本](/tidb/guide/serverless/upgrade.md)
+        * [运维管理](/tidb/guide/serverless/operation.md)
 * [数据迁移](/tidb/migration)
 * 性能数据
     * [TiDB Serverless](/tidb/capacity)
