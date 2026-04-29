@@ -22,6 +22,7 @@
         * [Dashboard/监控访问](/tidb/guide/utidb/proxy)
         * [监控告警](/tidb/guide/utidb/monitor)
         * [升级版本](/tidb/guide/utidb/upgrade.md)
+        * [证书管理](/tidb/guide/utidb/ssl)
     * TiDB Serverless
         * [实例](/tidb/guide/serverless/instance)
         * [用户](/tidb/guide/serverless/user)
